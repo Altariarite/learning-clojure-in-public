@@ -5,10 +5,10 @@ Trying to [work with the garage door up](https://notes.andymatuschak.org/About_t
 
 Also tracking my progress through https://github.com/athensresearch/ClojureFam/issues/100
 
-| Post | Date       | Topics                                              |
-| ---- | ---------- | --------------------------------------------------- |
-| 0    | 2021-01-19 | [Tidying up and looking ahead](posts/2021-01-19.md) |
-|      |            |                                                     |
-|      |            |                                                     |
+| Post | Date       | Topics                                                      |
+| ---- | ---------- | ----------------------------------------------------------- |
+| 0    | 2021-01-19 | [Tidying up and looking ahead](posts/2021-01-19.md)         |
+| 1    | 2021-01-20 | [States, futures, promises and delays](posts/2021-01-20.md) |
+|      |            |                                                             |
 
 
