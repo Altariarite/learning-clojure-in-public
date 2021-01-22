@@ -9,6 +9,6 @@ Also tracking my progress through https://github.com/athensresearch/ClojureFam/i
 | ---- | ---------- | ----------------------------------------------------------- |
 | 0    | 2021-01-19 | [Tidying up and looking ahead](posts/2021-01-19.md)         |
 | 1    | 2021-01-20 | [States, futures, promises and delays](posts/2021-01-20.md) |
-|      |            |                                                             |
+| 2    | 2021-01-21 | [States and atoms continued](posts/2021-01-21.md)           |
 
 
